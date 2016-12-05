@@ -1,4 +1,3 @@
-package com.cus.redis;
 
 import redis.clients.jedis.Jedis;
 
