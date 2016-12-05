@@ -2,7 +2,7 @@
 import redis.clients.jedis.Jedis;
 
 /**
- * 使用redis实现分布式锁
+ * 使用redis实现分布式锁（推荐）
  *
  * @author beyond
  * @version 1.0
